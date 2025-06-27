@@ -5,7 +5,21 @@ The goal of this project is to provide a seamless experience for users to browse
 This project helps in understanding full-stack development, API handling, authentication, and real-time data interaction using MongoDB.
 It is a great learning resource for anyone who wants to build and deploy a full-stack application from scratch.
 
+🔍 Key Features
 
+👩‍🎓 User Authentication: Sign up, log in, and manage secure sessions with JWT.
+
+📚 Courses Module: Browse and view detailed course content.
+
+🧑‍🏫 Admin Dashboard: Add, update, or delete courses (admin only).
+
+💾 MongoDB Integration: Course data and user info stored in a cloud database.
+
+🔁 REST API: Backend built with Express.js and Node.js using clean and scalable REST APIs.
+
+⚛️ Responsive Frontend: Built with React.js and styled using modern UI frameworks.
+
+📦 State Management: Uses React Context API or Redux for managing application state.
 
  React + Vite
 
